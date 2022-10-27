@@ -1,0 +1,55 @@
+[
+    {
+      "id": "1",
+      "title": "Python Bootcamp 2022",
+      "description": "Introduction to programming basic, binary equation, problem solving methods and algorithm development. Includes procedural and data abstractions, program design, debugging, testing, and documentation. Covers data types, control structures, functions, parameter passing, library functions, arrays, inheritance and object oriented design. Laboratory exercises in Python. ",
+      "image": "https://i.ibb.co/3hkdvQP/python.jpg",
+      "rating": "4.4",
+      "author_name": "Marcie Dunlap"
+    },
+    
+    {
+      "id": "2",
+      "title": "C Programming for Beginners",
+      "description": "This course will introduce the programming in C and fundamentals of object-oriented programming in C++ to solve engineering problems.This course introduces the C programming language features in the beginning of the semester. Topics covered include data types, control structures, standard input/output, file input/output, mathematic library, problem-solving, functions, arrays, dynamic memory, and pointers.",
+      "image": "https://i.ibb.co/GWrY18p/c.jpg",
+      "rating": "4.5",
+      "author_name": "Petra Robles"
+    }, 
+    {
+      "id": "3",
+      "title": "C# Fundamentals",
+      "description": "Data types, control structures, functions, syntax, and semantics of the language, classes, class relationships, and exception handling. This course is an introduction to computer programming for Windows. Emphasis will be on the fundamentals of structured design, development, testing, implementation, and documentation, including language syntax, data and file structures, input/output devices, files, and databases. The following C# topics will be covered: C# syntax, basics of C# classes, interfaces, exception handling, assemblies, .NET collections, Windows Forms, and relational database programming. The Microsoft Visual Studio .NET IDE will be used for program development.",
+      "image": "https://i.ibb.co/5WZSyDd/c.jpg",
+      "rating": "4.3",
+      "author_name": "Vickie Chambers"
+    },
+    
+    {
+      "id": "4",
+      "title": "Learn JavaScript",
+      "description": "The Learn JavaScript  course focuses on the fundamental concepts of the JavaScript language. This course will empower you with the skills to design client-side, platform-independent solutions that greatly increase the value of your Web site by providing interactivity and interest. You will learn how to use JavaScript to communicate with users, modify the Document Object Model (DOM), control program flow, validate forms, animate images, create cookies, change HTML on the fly, and communicate with databases.",
+      "image": "https://i.ibb.co/ZG8r2q6/js.jpg",
+      "rating": "4.4",
+      "author_name": "Matthews Bishop"
+    },
+    
+    {
+      "id": "5",
+      "title": "The Complete Java Programming",
+      "description": "This course introduces computer programming using the JAVA programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. This course has been approved to satisfy the Comprehensive Articulation Agreement for transferability as a premajor and/or elective course requirement",
+      "image": "https://i.ibb.co/GWrY18p/c.jpg",
+      "rating": "4.4",
+      "author_name": "Adela Avery"
+    },
+    
+    {
+      "id": "6",
+      "title": "PHP for Beginners",
+      "description": "PHP is a language written for the Web, quick to learn, easy to deploy and provides substantial functionality required for e-commerce. This PHP training course introduces the PHP framework and syntax and covers in depth the most important techniques used to build dynamic Web sites.",
+      "image": "https://i.ibb.co/XV80Z2k/php.jpg",
+      "rating": "4.5",
+      "author_name": "Deborah Cantu"
+    }
+    
+  ]
